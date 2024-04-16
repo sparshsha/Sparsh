@@ -1,7 +1,8 @@
 - git clone (then paste the HTTPS link of repo) so it will colne the 
   whole repo in are local pc 
+- use (git init) (to make the a repo to git repo)
 - cd = change  directory (folder ko directory bolte ha ) isse hm slect kr sakte ha 
-  hame kis folder ke ander ana ha (cd.foldername)
+  hame kis folder ke ander ana ha (cd.foldername) or copy the path of the folder 
 - clear (use this in pannel to clear the pannel) 
 - ls = list files (it will show you all the files )
 - ls-a or Get-ChildItem -Force (it will show the hidden files)
@@ -15,3 +16,9 @@
 - commit = it is record of change (git commit -m "Add Demo Notes")
 - push = push Command upload local repo content to remote repo(github)
          (git push origin main) - command 
+- (git remote add origin https://github.com/sparshsha/Localrepo.git) if we 
+  make a project in your local system and and want to puch it into github first
+  we use add and commit and then we use this command and the link we get after
+  creatng the repo into the github , and after that use push command (git push origin main)
+- git remote - v = use to check the puch kha hua ha 
+# branches , pull request(PR)
