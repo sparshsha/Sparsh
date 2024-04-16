@@ -1,0 +1,14 @@
+- git clone (then paste the HTTPS link of repo) so it will colne the 
+  whole repo in are local pc 
+- cd = change  directory (folder ko directory bolte ha ) isse hm slect kr sakte ha 
+  hame kis folder ke ander ana ha
+- clear (use this in pannel to clear the pannel) 
+- ls = list files (it will show you all the files )
+- ls-a or Get-ChildItem -Force (it will show the hidden files)
+- git status 4 types
+  untracked = new file that git doesn't yet track
+  modified = changed
+  staged = file is ready to be committed
+  unmodified = unchanged
+- add = adds new or changed files in your working directory to the git staging area 
+        (git add demo.text)
